@@ -14,9 +14,9 @@
 
 
 window#waybar {
-  background-color: rgba(26, 27, 38, 0.365);
+  background-color: rgba(0, 0, 0, 0.395);
   border-bottom: 1px solid rgba(26,27,38,0);
-  border-radius: 5px;
+  border-radius: 0 0 5px 5px;
   color: #E6B673;
 }
 
@@ -212,7 +212,7 @@ color: #F3F4F5;
 
 #tray {
 	color: #E6E1CF;
-	background: #0F1419;
+	background: transparent;
 	border-radius: 50px 50px;
 	margin: 5px;
 	padding: 2px 15px;
@@ -262,11 +262,11 @@ color: #F3F4F5;
 }
 
 #custom-power {
-	color: #D2A6FF;
+	color: #ff2626;
 	background: #0F1419;
-	border-radius: 15px 0px 0px 50px;
-	margin: 5px 0px;
-	padding: 2px 5px 2px 15px;
+	border-radius: 0;
+	margin: 0px;
+	padding: 5px;
 } 
 
 #custom-lock {
