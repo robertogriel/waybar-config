@@ -22,7 +22,7 @@
 		"custom/separator#blank",
 		"custom/separator#blank",
 		"clock",
-		"custom/separator#blank_2",
+		"custom/separator#dot-line",
 		"hyprland/window"
 	],
 	"modules-center": [
