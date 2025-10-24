@@ -42,8 +42,9 @@
 }
 
 window#waybar {
-    background-color: transparent;
-    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.535);
+    border-radius: 0 0 6px 6px;
+    margin: 0px;
 	padding-top: 2px;
 	padding-bottom: 0px;
 	padding-right: 4px;
@@ -161,7 +162,6 @@ tooltip {
 #custom-swaync,
 #custom-tty,
 #custom-updater,
-#custom-hyprpicker,
 #custom-weather,
 #custom-weather.clearNight,
 #custom-weather.cloudyFoggyDay,

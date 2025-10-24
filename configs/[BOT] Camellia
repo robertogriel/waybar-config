@@ -41,7 +41,6 @@
 	"backlight/slider",
 	"custom/speaker",
 	"pulseaudio/slider",
-	"power-profiles-daemon",
 	"battery",
 	"clock#3", 
 	"network"],

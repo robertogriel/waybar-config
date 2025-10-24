@@ -23,8 +23,7 @@
 "margin-right": 8,
 
 "modules-left": [
-	"cpu",
-	"power-profiles-daemon", 
+	"cpu", 
 	"temperature", 
 	"memory",
 	"disk", 
@@ -44,7 +43,6 @@
 	"network",
 	"custom/updater",
 	"custom/cycle_wall",
-	"custom/nightlight",
 	"custom/lock", 
 	],
 },
@@ -89,7 +87,6 @@
 	"pulseaudio",
 	//"wireplumber", 
 	"pulseaudio#microphone",	  
-	"custom/nightlight",
 	"custom/power",
 	],  
 }],

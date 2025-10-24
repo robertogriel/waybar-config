@@ -41,11 +41,9 @@
 	"backlight/slider",
 	"custom/speaker",
 	"pulseaudio/slider",
-	"power-profiles-daemon",
 	"battery",
 	"clock#3", 
-	"network",
-	"custom/nightlight"],
+	"network"],
 
 // Additional modules //
 "pulseaudio/slider": {

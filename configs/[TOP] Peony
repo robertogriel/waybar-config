@@ -42,9 +42,7 @@
 	"pulseaudio",
 	"custom/separator#blank",
 	"temperature",
-	"custom/separator#blank",
-	"group/mobo_drawer",	
-	"network",
-	"custom/nightlight"],
+	"custom/separator#blank",	
+	"network"],
 
 }	
