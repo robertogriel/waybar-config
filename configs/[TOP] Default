@@ -40,7 +40,7 @@
 	"custom/separator#dot-line",
 	"group/mobo_drawer",
 	"custom/separator#line",  
-	"group/audio",
+	"pulseaudio",
 	"custom/separator#dot-line", 
 	"custom/nightlight",
 	"custom/separator#dot-line", 
